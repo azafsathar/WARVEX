@@ -1,0 +1,1129 @@
+fileFormatVersion: 2
+guid: 30e99a1258581444f94f4ad696a1cc2a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5416558744078663141
+    second: UI_Sheet_3_HUD_Controls_0
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: UI_Sheet_3_HUD_Controls_0
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 2666
+        width: 964
+        height: 384
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b12c72a358484d4b0800000000000000
+      internalID: -5416558744078663141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Sheet_3_HUD_Controls_1
+      rect:
+        serializedVersion: 2
+        x: 1151
+        y: 2746
+        width: 683
+        height: 304
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6536f30cd1f23d34d9c5d458864e43a7
+      internalID: -1853758630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Sheet_3_HUD_Controls_2
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 2090
+        width: 484
+        height: 484
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09f8e6a4d316cc943965f7f6f7b84c42
+      internalID: -557713491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Sheet_3_HUD_Controls_3
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 2330
+        width: 683
+        height: 244
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbc216412f271334095eb2d89f783922
+      internalID: 167708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Sheet_3_HUD_Controls_4
+      rect:
+        serializedVersion: 2
+        x: 1446
+        y: 2491
+        width: 1044
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 275571bd143c9b54a9b01e8ec1903bc1
+      internalID: -1470293107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Sheet_3_HUD_Controls_5
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 1886
+        width: 763
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e87beee5a45d9f4eaec4f75319cc20a
+      internalID: -901215248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Sheet_3_HUD_Controls_6
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 1906
+        width: 604
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13b1c0ff94d4cfa4abc16bcf575c8cf6
+      internalID: -1982026125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Sheet_3_HUD_Controls_7
+      rect:
+        serializedVersion: 2
+        x: 1647
+        y: 1906
+        width: 603
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e1f4021037c4ea4aa1e31fbfa20ac93
+      internalID: -82905896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Sheet_3_HUD_Controls_8
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 1742
+        width: 803
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8f1e6be446cbd744a0a431e6dcbb46d
+      internalID: 697134074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Sheet_3_HUD_Controls_9
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 1750
+        width: 796
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f3e3a4b4e07a8f408369fe523028582
+      internalID: -2116554893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Sheet_3_HUD_Controls_10
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 1619
+        width: 803
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d118cfe5e1bed5459eaceed2109930a
+      internalID: 1601837923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Sheet_3_HUD_Controls_11
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 1627
+        width: 796
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48962f0184a42a0409cd513d2796f2d5
+      internalID: -112309538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Sheet_3_HUD_Controls_12
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 1494
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7f39a3a7edaff84bb500ba3077c526b
+      internalID: 144272407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Sheet_3_HUD_Controls_13
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 1494
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d540e375d228084d9c29d31acc9c0fb
+      internalID: -1795166816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Sheet_3_HUD_Controls_14
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 1482
+        width: 796
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08390c9fce592544295ed8fd34811a8b
+      internalID: -1143985323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Sheet_3_HUD_Controls_15
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 1306
+        width: 83
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7da2ad5771520754f9d0e8584f0c3437
+      internalID: 752339651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Sheet_3_HUD_Controls_16
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 1306
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c3c19c2caa938346a44e9e5683860b5
+      internalID: 1871863311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Sheet_3_HUD_Controls_17
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 1306
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b111f72614285f240aecf35ba76259ff
+      internalID: -1978525164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Sheet_3_HUD_Controls_18
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 1335
+        width: 195
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bb894d30f8a5a54697dec0a080ac53b
+      internalID: 1220778720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Sheet_3_HUD_Controls_19
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 930
+        width: 284
+        height: 284
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c7ad93cfc3999141af5bc3b647475ef
+      internalID: 1797139456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Sheet_3_HUD_Controls_20
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 1051
+        width: 162
+        height: 163
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6963f6aec3804274f87eeeb015095e91
+      internalID: -974764320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Sheet_3_HUD_Controls_21
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 1051
+        width: 164
+        height: 163
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78cd333314a425b4e995ee1fccab0004
+      internalID: -865377136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Sheet_3_HUD_Controls_22
+      rect:
+        serializedVersion: 2
+        x: 982
+        y: 1051
+        width: 164
+        height: 163
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8778325a478aaa44b6006369c896648
+      internalID: 1268439390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Sheet_3_HUD_Controls_23
+      rect:
+        serializedVersion: 2
+        x: 1247
+        y: 1165
+        width: 37
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15f7e1d4ab7ca4243ba0d1e5e6d1ed2c
+      internalID: 468140614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Sheet_3_HUD_Controls_24
+      rect:
+        serializedVersion: 2
+        x: 1386
+        y: 1177
+        width: 36
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 924adda9297066043857a0a68d97549a
+      internalID: 346603168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Sheet_3_HUD_Controls_25
+      rect:
+        serializedVersion: 2
+        x: 1518
+        y: 1192
+        width: 32
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8535d14c35706a4498650daa729740a
+      internalID: -1189823173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Sheet_3_HUD_Controls_26
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 738
+        width: 624
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8003c62663ee6649a4cc02216e76d3f
+      internalID: -41225352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Sheet_3_HUD_Controls_27
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 758
+        width: 623
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6b2e29242881a543ad9084e744d31c0
+      internalID: -1128843378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Sheet_3_HUD_Controls_28
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 626
+        width: 624
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3d905878c01281488cd17e2a8956f1c
+      internalID: -2093168787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Sheet_3_HUD_Controls_29
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 626
+        width: 623
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55e0a10ea4a6b614089439ad04b6c6fd
+      internalID: -602078061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Sheet_3_HUD_Controls_30
+      rect:
+        serializedVersion: 2
+        x: 1526
+        y: 590
+        width: 39
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17f8d9587bba8c446a9c15e912999cc9
+      internalID: 660468085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Sheet_3_HUD_Controls_31
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 442
+        width: 116
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ce6d684908b6324f9db207c8249b29d
+      internalID: -2081854304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Sheet_3_HUD_Controls_32
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 442
+        width: 116
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b8a26eb16333b446a92073213c2f066
+      internalID: -1441775611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Sheet_3_HUD_Controls_33
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 418
+        width: 159
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 449e753d3ea2ff243a97e4aa915af792
+      internalID: 1799149809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Sheet_3_HUD_Controls_34
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 418
+        width: 160
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe25067d5ca6652449f833f76dcbde6d
+      internalID: 2126883748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Sheet_3_HUD_Controls_35
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 222
+        width: 304
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e809fb2f1ea90e14c85e2ff60ace426c
+      internalID: -1165029221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Sheet_3_HUD_Controls_36
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 222
+        width: 303
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb1bd55bfb229df4785555dde310e67f
+      internalID: -189047711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Sheet_3_HUD_Controls_37
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 214
+        width: 595
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a62e8af0b29dfde4d8e24c38793e6325
+      internalID: -891538225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Sheet_3_HUD_Controls_38
+      rect:
+        serializedVersion: 2
+        x: 1575
+        y: 214
+        width: 595
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41fc240ec766d6b49b12bfc57fd9247f
+      internalID: 1775083866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Sheet_3_HUD_Controls_39
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 114
+        width: 1204
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6bfb01a31135644486a6c126535172c
+      internalID: -1505001678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Sheet_3_HUD_Controls_40
+      rect:
+        serializedVersion: 2
+        x: 1390
+        y: 94
+        width: 172
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 448d36cbf188bce4796e3451088d9642
+      internalID: -1640956264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Sheet_3_HUD_Controls_41
+      rect:
+        serializedVersion: 2
+        x: 1654
+        y: 94
+        width: 172
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36918d2a535d6db4f966dba278742e72
+      internalID: 71315350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 6143a7cf558895a4ead6a035f740c023
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      UI_Sheet_3_HUD_Controls_0: -5416558744078663141
+      UI_Sheet_3_HUD_Controls_1: -1853758630
+      UI_Sheet_3_HUD_Controls_10: 1601837923
+      UI_Sheet_3_HUD_Controls_11: -112309538
+      UI_Sheet_3_HUD_Controls_12: 144272407
+      UI_Sheet_3_HUD_Controls_13: -1795166816
+      UI_Sheet_3_HUD_Controls_14: -1143985323
+      UI_Sheet_3_HUD_Controls_15: 752339651
+      UI_Sheet_3_HUD_Controls_16: 1871863311
+      UI_Sheet_3_HUD_Controls_17: -1978525164
+      UI_Sheet_3_HUD_Controls_18: 1220778720
+      UI_Sheet_3_HUD_Controls_19: 1797139456
+      UI_Sheet_3_HUD_Controls_2: -557713491
+      UI_Sheet_3_HUD_Controls_20: -974764320
+      UI_Sheet_3_HUD_Controls_21: -865377136
+      UI_Sheet_3_HUD_Controls_22: 1268439390
+      UI_Sheet_3_HUD_Controls_23: 468140614
+      UI_Sheet_3_HUD_Controls_24: 346603168
+      UI_Sheet_3_HUD_Controls_25: -1189823173
+      UI_Sheet_3_HUD_Controls_26: -41225352
+      UI_Sheet_3_HUD_Controls_27: -1128843378
+      UI_Sheet_3_HUD_Controls_28: -2093168787
+      UI_Sheet_3_HUD_Controls_29: -602078061
+      UI_Sheet_3_HUD_Controls_3: 167708
+      UI_Sheet_3_HUD_Controls_30: 660468085
+      UI_Sheet_3_HUD_Controls_31: -2081854304
+      UI_Sheet_3_HUD_Controls_32: -1441775611
+      UI_Sheet_3_HUD_Controls_33: 1799149809
+      UI_Sheet_3_HUD_Controls_34: 2126883748
+      UI_Sheet_3_HUD_Controls_35: -1165029221
+      UI_Sheet_3_HUD_Controls_36: -189047711
+      UI_Sheet_3_HUD_Controls_37: -891538225
+      UI_Sheet_3_HUD_Controls_38: 1775083866
+      UI_Sheet_3_HUD_Controls_39: -1505001678
+      UI_Sheet_3_HUD_Controls_4: -1470293107
+      UI_Sheet_3_HUD_Controls_40: -1640956264
+      UI_Sheet_3_HUD_Controls_41: 71315350
+      UI_Sheet_3_HUD_Controls_5: -901215248
+      UI_Sheet_3_HUD_Controls_6: -1982026125
+      UI_Sheet_3_HUD_Controls_7: -82905896
+      UI_Sheet_3_HUD_Controls_8: 697134074
+      UI_Sheet_3_HUD_Controls_9: -2116554893
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
