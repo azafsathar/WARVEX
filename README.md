@@ -126,9 +126,9 @@ The player will navigate hostile environments, engage enemies, complete mission 
 
 WARVEX will be developed incrementally, with each stage building on a working foundation.
 
-- [ ] **Phase 0:** Game concept and design document
-- [ ] **Phase 1:** Project setup and test environment
-- [ ] **Phase 2:** Player movement and third-person camera
+- [x] **Phase 0:** Game concept and design document
+- [x] **Phase 1:** Project setup and test environment
+- [x] **Phase 2:** Player movement and third-person camera
 - [ ] **Phase 3:** Shooting, weapons, ammunition, and damage
 - [ ] **Phase 4:** Character animation and weapon handling
 - [ ] **Phase 5:** Enemy AI and combat behavior
