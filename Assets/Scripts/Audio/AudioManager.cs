@@ -30,7 +30,7 @@ public class AudioManager : MonoBehaviour
         CollectibleController.OnScoreCollected += PlayScoreSound;
 
         // Subscribe to the event when the player takes damage
-        ObstacleController.OnDamageTaken += PlayDamageSound;
+        EnemyController.OnDamageTaken += PlayDamageSound;
     }
 
     private void OnDisable()
@@ -39,7 +39,7 @@ public class AudioManager : MonoBehaviour
         CollectibleController.OnScoreCollected -= PlayScoreSound;
 
         // Unsubscribe from the damage event
-        ObstacleController.OnDamageTaken -= PlayDamageSound;
+        EnemyController.OnDamageTaken -= PlayDamageSound;
     }
 
     // Play the sound when the player collects a score

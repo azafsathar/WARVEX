@@ -27,13 +27,13 @@ public class PlayerHealth : MonoBehaviour
     private void OnEnable()
     {
         // Listen for damage events from the ObstacleController
-        ObstacleController.OnDamageTaken += TakeDamage;
+        EnemyController.OnDamageTaken += TakeDamage;
     }
 
     private void OnDisable()
     {
         // Stop listening for damage events when this script is disabled
-        ObstacleController.OnDamageTaken -= TakeDamage;
+        EnemyController.OnDamageTaken -= TakeDamage;
     }
 
     private void Start()
