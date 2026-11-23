@@ -22,14 +22,6 @@ public class MainMenuUI : MonoBehaviour
         // Open the loading screen through the SceneController
         SceneController.Instance.LoadGame();
     }
-
-    // Called when the Settings button is clicked
-    public void SettingsButton()
-    {
-        // Open the settings scene
-        SceneController.Instance.OpenSettings();
-    }
-
     // Called when the Exit button is clicked
     public void ExitButton()
     {

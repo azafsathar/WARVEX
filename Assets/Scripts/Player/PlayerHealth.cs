@@ -13,7 +13,7 @@ public class PlayerHealth : MonoBehaviour
     public static event Action<float> OnHealthChanged;
 
     // Event to notify other scripts when the player dies
-    public event Action OnPlayerDied;
+    public static event Action OnPlayerDied;
 
     // Tracks whether the player is already dead
     private bool isDead;

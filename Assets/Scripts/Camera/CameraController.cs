@@ -39,11 +39,11 @@ public class CameraController : MonoBehaviour
 
     private void Start()
     {
-        // Lock the cursor to the center of the screen
-        Cursor.lockState = CursorLockMode.Locked;
+        //// Lock the cursor to the center of the screen
+        //Cursor.lockState = CursorLockMode.Locked;
 
-        // Hide the cursor during gameplay
-        Cursor.visible = false;
+        //// Hide the cursor during gameplay
+        //Cursor.visible = false;
 
         // Get the target's initial horizontal and vertical rotation
         yaw = cameraTarget.eulerAngles.y;
@@ -83,10 +83,10 @@ public class CameraController : MonoBehaviour
         // Disable camera look input
         controls.Player.Look.Disable();
 
-        // Unlock the cursor when the camera is disabled
-        Cursor.lockState = CursorLockMode.None;
+        //// Unlock the cursor when the camera is disabled
+        //Cursor.lockState = CursorLockMode.None;
 
-        // Make the cursor visible again
-        Cursor.visible = true;
+        //// Make the cursor visible again
+        //Cursor.visible = true;
     }
 }

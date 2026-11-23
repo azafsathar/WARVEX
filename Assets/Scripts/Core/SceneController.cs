@@ -5,7 +5,6 @@ public class SceneController : MonoBehaviour
 {
     // Singleton instance to access SceneController from other scripts
     public static SceneController Instance;
-
     private void Awake()
     {
         // Assign this object as the SceneController instance
@@ -30,11 +29,8 @@ public class SceneController : MonoBehaviour
         SceneManager.LoadScene("GameplayScene01");
     }
 
-    // Open the settings scene
-    public void OpenSettings()
-    {
-        SceneManager.LoadScene("SettingsScene");
-    }
+
+
 
     // Close the game application
     public void ExitGame()

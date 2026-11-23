@@ -56,7 +56,13 @@ public class SettingsUI : MonoBehaviour
     // Return to the main menu scene
     public void BackButton()
     {
-        SceneController.Instance.MainMenuScene();
+        gameObject.SetActive(false);
+    }
+
+    public void SettingsButton()
+    {
+        gameObject.SetActive(true);
+
     }
 
     // Open Audio Settings and hide all other settings panels

@@ -3,7 +3,6 @@ using UnityEngine;
 public class PlayerController : MonoBehaviour
 {
     // Reference to the player's health script
-    private PlayerHealth playerHealth;
 
     // Input System
     private InputSystem_Actions controls;
@@ -42,7 +41,6 @@ public class PlayerController : MonoBehaviour
         controls = new InputSystem_Actions();
 
         // Get the required components from the player
-        playerHealth = GetComponent<PlayerHealth>();
         playerController = GetComponent<CharacterController>();
         playerAnim = GetComponent<Animator>();
     }
@@ -53,7 +51,7 @@ public class PlayerController : MonoBehaviour
         controls.Player.Enable();
 
         // Listen for the player's death event
-        playerHealth.OnPlayerDied += Die;
+        PlayerHealth.OnPlayerDied += Die;
     }
 
     private void OnDisable()
@@ -62,7 +60,7 @@ public class PlayerController : MonoBehaviour
         controls.Player.Disable();
 
         // Stop listening for the player's death event
-        playerHealth.OnPlayerDied -= Die;
+        PlayerHealth.OnPlayerDied -= Die;
     }
 
 
@@ -242,6 +240,7 @@ public class PlayerController : MonoBehaviour
     {
         // Play the player's death animation
         playerAnim.SetTrigger("Die");
+        
     }
 
     // Called automatically when the CharacterController hits another collider
