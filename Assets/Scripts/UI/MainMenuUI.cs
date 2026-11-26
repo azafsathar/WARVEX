@@ -10,18 +10,31 @@ public class MainMenuUI : MonoBehaviour
     [SerializeField] private Button exitButton;
     [SerializeField] private Button aboutButton;
 
+    [SerializeField] private GameObject loadingScene;
+
     private void Awake()
     {
         // Show all main menu buttons when the scene starts
         MainMenu(true);
+
+        loadingScene.gameObject.SetActive(false);
     }
 
-    // Called when the Play button is clicked
-    public void PlayButton()
+    public void ContinueButton()
     {
-        // Open the loading screen through the SceneController
-        SceneController.Instance.LoadGame();
+        loadingScene.gameObject.SetActive(true);
     }
+    public void NewGameButton()
+    {
+
+    }
+
+    public void LoadGameButton()
+    {
+
+    }
+
+
     // Called when the Exit button is clicked
     public void ExitButton()
     {
